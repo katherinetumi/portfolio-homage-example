@@ -26,7 +26,7 @@ h
     margin-bottom: 3rem !important;
 }
 .btn-branding {
-    background: var(--branding-color);
+    background: blueviolet;
     border-radius: 4px;
     color: white;
     font-size: 18px;
